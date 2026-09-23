@@ -1,1 +1,1 @@
-Codes to analyze Hi-C results
+Codes to analyze Hi-C and WGS results
